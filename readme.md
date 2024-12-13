@@ -16,8 +16,8 @@
 <h3>Ferramentas Tecnologicas</h3>
 
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
-![Flutter](https://img.shields.io/cirrus/github/:user/:repo)
-![Dart]
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
