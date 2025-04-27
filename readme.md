@@ -4,7 +4,6 @@
 
 - 😄 &nbsp; Meu Perfil <a href="https://thiagofreitasdevportfolio.vercel.app/">Thiago De Freitas<a>
 - 😳 &nbsp; Um pequeno rookie ainda nessa grande área de Front-End
-- 😳 &nbsp; Me desculpa se eu sempre defender Daiki-Senpai
 
 <br/>
 
